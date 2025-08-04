@@ -13,7 +13,7 @@ IDE alvo instalada (Cursor ou VS Code)
 🚀 Execução Direta (Recomendado)
 powershell
 # Execute o PowerShell como administrador e depois:
-irm https://raw.githubusercontent.com/Huo-zai-feng-lang-li/cursor-free-vip/main/ide-reset-ultimate.ps1 | iex
+irm https://raw.githubusercontent.com/Ramys/Cursor-Ramys/refs/heads/main/ide-reset-ultimate.ps1 | iex x
 ✨ Funcionalidades:
 
 🎯 Suporte a Múltiplas IDEs: Cursor + VS Code
